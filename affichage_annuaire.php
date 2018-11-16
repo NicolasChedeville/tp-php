@@ -48,7 +48,7 @@
                         Date de naissance : $donnees[date_de_naissance]<br>
                         Sexe : $sexe<br>
                         Description : $donnees[description]<br><br>
-                        salut Nico";
+                        Nouveau bouton pour modifier";
                     ?>
             </div>
             <?php
