@@ -48,7 +48,7 @@
                         Date de naissance : $donnees[date_de_naissance]<br>
                         Sexe : $sexe<br>
                         Description : $donnees[description]<br><br>
-                        salut Nico";
+                        salut Nico alors pas la peine de chercher on mettera ça !!!!!!!!";
                     ?>
             </div>
             <?php
