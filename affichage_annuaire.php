@@ -47,7 +47,8 @@
                         Ville : $donnees[ville]<br>
                         Date de naissance : $donnees[date_de_naissance]<br>
                         Sexe : $sexe<br>
-                        Description : $donnees[description]<br><br>";
+                        Description : $donnees[description]<br><br>
+                        salut Nico";
                     ?>
             </div>
             <?php
