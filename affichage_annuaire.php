@@ -49,6 +49,7 @@
                         Sexe : $sexe<br>
                         Description : $donnees[description]<br><br>
                         Nouveau bouton pour modifier";
+
                     ?>
             </div>
             <?php
